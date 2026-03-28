@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Shreem Bhargava 👋
+
+🎓 Branch: Artificial Intelligence 
+📅 Year: 1st Year 
+
+💡 I hope to learn programming, problem solving, and build real-world projects using technology.
+
+🚀 Currently learning: C++, GitHub, and Web Development 
 
 <!--
 **shreem-bhargava36/shreem-bhargava36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
